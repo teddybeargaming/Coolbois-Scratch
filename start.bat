@@ -1,0 +1,1 @@
+Squeak.exe ProgramImage.image
